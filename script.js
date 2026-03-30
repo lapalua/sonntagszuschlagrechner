@@ -1,6 +1,6 @@
 const defaultConfig = {
-  main_title: "Feiertagszuschlagsrechner",
-  subtitle: "Berechnen Sie Ihren Lohn mit Feiertagszuschlag",
+  main_title: "Sonntagszuschlagsrechner",
+  subtitle: "Berechnen Sie Ihren Lohn mit Sonntagszuschlag",
   calculate_button: "Berechnen",
   reset_button: "Zurücksetzen"
 };
